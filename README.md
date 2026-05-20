@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer .<br>One of my major project is a White Board where multiple users can join a room and collab.<br>I am also a Smart India Hackathon 2025 National Finalist.<br>I love solving DSA problems 
+Hello I am Divaynshu , currently a third year BTECH student from BIT Mesra.
 
 
 ## 🌐 Socials:
