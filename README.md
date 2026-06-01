@@ -45,16 +45,6 @@
 </p>
 ---
  
-## 🏆 Achievements
- 
-| | |
-|---|---|
-| 🥇 | Smart India Hackathon Finalist |
-| 👑 | LeetCode Knight |
-| 💯 | 1000+ DSA Problems Solved |
-| 🚀 | Multiple Full Stack Projects Shipped |
- 
----
  
 ## 📊 GitHub Stats
  
