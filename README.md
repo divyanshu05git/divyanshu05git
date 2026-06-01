@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/1000%2B%20DSA-EF9F27?style=flat-square&color=FAEEDA&labelColor=FAEEDA" />
   <img src="https://img.shields.io/badge/SIH%20Finalist-D85A30?style=flat-square&color=FAECE7&labelColor=FAECE7" />
 </p>
----
  
 ## 🚀 About Me
  
@@ -19,7 +18,7 @@
 - 💻 Full Stack Developer — React, Next.js, Node.js, Express
 - 🧠 Competitive Programmer — LeetCode Knight, 1000+ problems solved
 - 🥇 Smart India Hackathon 2025 Finalist
----
+
  
 ## 🌐 Connect
  
@@ -36,14 +35,12 @@
     <img src="https://skillicons.dev/icons?i=github" height="36"/>
   </a>
 </p>
----
  
 ## 💻 Tech Stack
  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nextjs,nodejs,express,mongodb,postgres,supabase,vite,git,github,postman,tailwind&perline=8"/>
 </p>
----
  
  
 ## 📊 GitHub Stats
@@ -53,28 +50,28 @@
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=divyanshu05git&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=1D9E75&fire=D85A30&currStreakLabel=534AB7" height="180"/>
 </p>
----
+
  
 ## 📈 Most Used Languages
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu05git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=CDD9E5&langs_count=8"/>
 </p>
----
+
  
 ## 🧠 LeetCode Stats
  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/divyanshupratapsingh?theme=dark&font=Karma&ext=heatmap"/>
 </p>
----
+
  
 ## 🔥 GitHub Streak
  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=divyanshu05git&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
----
+
  
 ## 🏆 GitHub Trophies
  
