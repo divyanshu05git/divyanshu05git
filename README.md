@@ -52,13 +52,6 @@
 </p>
 
  
-## 📈 Most Used Languages
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu05git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=CDD9E5&langs_count=8"/>
-</p>
-
- 
 ## 🧠 LeetCode Stats
  
 <p align="center">
@@ -76,9 +69,8 @@
 ## 🏆 GitHub Trophies
  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshu05git&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=divyanshu05git&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8"/>
 </p>
----
  
 ## 👀 Profile Views
  
