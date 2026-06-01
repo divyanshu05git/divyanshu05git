@@ -22,6 +22,4 @@ I love building full stack projects and solving DSA problems.
 ---
 [![](https://komarev.com/ghpvc/?username=divyanshu05git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
