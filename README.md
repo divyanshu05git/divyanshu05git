@@ -15,7 +15,7 @@
 ## 🚀 About Me
  
 - 🎓 B.Tech CSE @ **BIT Mesra** (2027)
-- 💻 Full Stack Developer — React, Next.js, Node.js, Express
+- 💻 Full Stack Developer — React, Next.js, Node.js, Express , Prisma ORM
 - 🧠 Competitive Programmer — LeetCode Knight, 1000+ problems solved
 - 🥇 Smart India Hackathon 2025 Finalist
 
