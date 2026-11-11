@@ -16,7 +16,7 @@
  
 - 🎓 B.Tech CSE @ **BIT Mesra** (2027)
 - 💻 Full Stack Developer — React, Next.js, Node.js, Express , Prisma ORM , Postgres , MongoDB
-- 🧠 Competitive Programmer — LeetCode Knight, 1000+ problems solved
+- 🧠 Competitive Programmer — LeetCode Knight, 1500+ problems solved
 - 🥇 Smart India Hackathon 2025 Finalist
 
  
