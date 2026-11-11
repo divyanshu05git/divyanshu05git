@@ -59,13 +59,6 @@
 </p>
 
 
- 
-## 🏆 GitHub Trophies
- 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshu05git&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8"/>
-</p>
- 
 ## 👀 Profile Views
  
 <p align="center">
